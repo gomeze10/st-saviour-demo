@@ -1,5 +1,5 @@
 # File where all side effect logs will be stored
-log_file = "side_effects.txt"
+log_file = "side_effects"
 
 # List of common side effects the user can choose from
 side_effects = [
